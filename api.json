@@ -1,0 +1,52 @@
+{
+  "programmers": [
+    {
+      "name": "Ada Lovelace",
+      "image_name": "ada-lovelace.jpg",
+      "description": "Ada Lovelace was a Victorian-era mathematician widely considered to be the first computer programmer. Lovelace’s impact on the world of technology lives on and is observed on the second Tuesday in October with Ada Lovelace Day, on which individuals and organizations alike celebrate the achievements of women in STEM.",
+      "id": 1
+    },
+    {
+      "name": "Katherine Johnson",
+      "image_name": "katherine-johnson.jpeg",
+      "description": "A model student, Katherine Johnson skipped enough grades to begin high school at age 13, continuing her education until she earned a Ph.D. in mathematics. Johnson's contributed to space flights and reports until retiring in 1986. President Barack Obama awarded Johnson the Presidential Medal of Freedom in 2015.",
+      "id": 2
+    },
+    {
+      "name": "Grace Hopper",
+      "image_name": "grace-hopper.jpg",
+      "description": "Grace Hopper is one of the most notable, accomplished, and acclaimed computer scientists ever to have lived. She was part of the Harvard team that built the first-ever computer, the Mark 1. She also developed the first universal programming language for business, COBOL, which is still in use today. Hopper is even credited with coining the term “debugging.”",
+      "id": 3
+    },
+    {
+      "name": "Hedy Lamarr",
+      "image_name": "hedy-lamarr.jpeg",
+      "description": "Hedy Lamarr is best known as a Hollywood superstar, but off-screen, Lamarr was known for her dedication to her other passions: science and inventing. In fact, she created the communication system that would later become the basis for WiFi, GPS, and Bluetooth. That invention, originally a radio guidance system, helped the Allies win the Second World War.",
+      "id": 4
+    },
+    {
+      "name": "Mitchell Baker",
+      "image_name": "mitchell-baker.jpg",
+      "description": "Co-founder of the Mozilla Project, which continues to offer best-in-class private browsing, as well as petitions users to fight for net neutrality. Baker has been widely acknowledged for her work with open-source software. In 2005, Time magazine named her one of its 100 Most Influential People, and she's also been inducted into the Internet Society's Internet Hall of Fame.",
+      "id": 5
+    },
+    {
+      "name": "Radia Perlman",
+      "image_name": "radia-perlman.jpg",
+      "description": "Dr. Radia Perlman is a network and software designer known to some as “the mother of the Internet.” She worked on LOGO, the first programming language created specifically for children. She is best known for her spanning tree algorithm (STP). STP solved the initial problem of data sharing between computers and stopped data from becoming trapped in a loop.",
+      "id": 6
+    },
+    {
+      "name": "Anita Borg",
+      "image_name": "anita-borg.jpeg",
+      "description": "Anita Borg was a computer scientist and a staunch advocate for the advancement of women programmers. Borg has probably done more than anyone else to advance the cause of women in tech. She created the Institute for Women and Technology to support women already working in tech and to encourage other women to enter the field.",
+      "id": 6
+    },
+    {
+      "name": "The Women of ENIAC",
+      "image_name": "eniac-team.jpg",
+      "description": "Among the ENIAC Programmers, there were six young women who worked on the world's first all-electronic programmable computer: Kathleen McNulty Mauchly Antonelli, Jean Jennings Bartik, Frances Snyder Holberton, Marlyn Wescoff Meltzer, Frances Bilas Spence, and Ruth Lichterman Teitelbaum were the six chosen by the U.S. Army to program and run the ENIAC during the Second World War.",
+      "id": 6
+    }
+  ]
+}
