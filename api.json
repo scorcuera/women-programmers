@@ -40,13 +40,13 @@
       "name": "Anita Borg",
       "image_name": "anita-borg.jpeg",
       "description": "Anita Borg was a computer scientist and a staunch advocate for the advancement of women programmers. Borg has probably done more than anyone else to advance the cause of women in tech. She created the Institute for Women and Technology to support women already working in tech and to encourage other women to enter the field.",
-      "id": 6
+      "id": 7
     },
     {
       "name": "The Women of ENIAC",
       "image_name": "eniac-team.jpg",
       "description": "Among the ENIAC Programmers, there were six young women who worked on the world's first all-electronic programmable computer: Kathleen McNulty Mauchly Antonelli, Jean Jennings Bartik, Frances Snyder Holberton, Marlyn Wescoff Meltzer, Frances Bilas Spence, and Ruth Lichterman Teitelbaum were the six chosen by the U.S. Army to program and run the ENIAC during the Second World War.",
-      "id": 6
+      "id": 8
     }
   ]
 }
